@@ -69,8 +69,9 @@ int main() {
 
     std :: cout << std :: fixed;
     std :: cout << std :: setprecision(2);
-    std :: cout << d << std :: endl;
     
+    std :: cout << "Alex";
+
     return 0;
     
 }
