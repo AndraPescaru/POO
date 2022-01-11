@@ -8,6 +8,7 @@ Se va afișa cartea cu numărul minim de pagini.
 Se va afișa cartea cel mai recent lansată. 
 Prin afișarea cărții se înțelege afișarea tuturor datelor membre ale cărții, fiecare pe un rând nou.
 */
+
 #include <iostream>
 #include <string.h>
 #include <iomanip>
